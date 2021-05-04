@@ -1,5 +1,5 @@
 module.exports = {
-  presets: ["@vue/app"],
+  presets: ["@vue/cli-plugin-babel/preset"],
   plugins: [
     "transform-custom-element-classes",
     "transform-es2015-shorthand-properties",

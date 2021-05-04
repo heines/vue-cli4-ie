@@ -5,8 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "start": "npm run serve",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "npm run serve"
   },
   "dependencies": {
     "core-js": "^3.6.4",
@@ -18,11 +18,11 @@
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-arrow-functions": "^7.8.3",
     "@babel/plugin-transform-regenerator": "^7.8.7",
-    "@vue/cli-plugin-babel": "~4.3.0",
-    "@vue/cli-plugin-eslint": "~4.3.0",
-    "@vue/cli-plugin-router": "~4.3.0",
-    "@vue/cli-plugin-vuex": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
+    "@vue/cli-plugin-babel": "~4.5.12",
+    "@vue/cli-plugin-eslint": "~4.5.12",
+    "@vue/cli-plugin-router": "~4.5.12",
+    "@vue/cli-plugin-vuex": "~4.5.12",
+    "@vue/cli-service": "~4.5.12",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.1.0",
     "babel-plugin-transform-custom-element-classes": "^0.1.0",
@@ -35,7 +35,7 @@
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
     "string-replace-loader": "^2.3.0",
-    "vue-cli-plugin-pug": "~1.0.7",
+    "vue-cli-plugin-pug": "^2.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
